@@ -4,7 +4,7 @@ WWW::PSN - Perl Module for fetching PSN profile and trophy data.
 
 # VERSION
 
-version 0.01
+version 0.02
 
 # SYNOPSIS
 
