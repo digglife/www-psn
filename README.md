@@ -1,6 +1,6 @@
 # NAME
 
-WWW::PSN - Perl Module for fetching PSN profile and trophies.
+WWW::PSN - Perl Module for fetching PSN profile and trophy data.
 
 # VERSION
 
